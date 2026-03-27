@@ -1,0 +1,4 @@
+patient_id,timestamp,lab_test,lab_value
+P001,2026-03-27 09:00:00,glucose,105.0
+P002,2026-03-27 09:15:00,glucose,110.0
+P001,2026-03-27 09:30:00,cholesterol,190.0
