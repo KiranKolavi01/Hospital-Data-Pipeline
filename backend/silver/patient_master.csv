@@ -1,6 +1,0 @@
-patient_id,name,age,gender,diagnosis,hr,ox,sys,dia,lab_HbA1c,lab_IgE,lab_cholesterol,lab_creatinine,lab_glucose,lab_troponin
-P001,Rahul Sharma,45,Male,Hypertension,125,95,165,102,,,220.0,,105.0,
-P002,Priya Patel,32,Female,Diabetes Type 2,70,99,115,74,7.2,,,,165.0,
-P003,Amit Kumar,58,Male,COPD,95,88,150,95,,,,1.3,,
-P004,Sneha Reddy,29,Female,Asthma,70,94,112,72,,450.0,,,,
-P005,Vikram Singh,67,Male,Cardiac Arrhythmia,122,90,162,101,,,,,,0.08
