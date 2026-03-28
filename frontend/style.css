@@ -1,0 +1,60 @@
+/* Vercel-inspired UI Polish for Streamlit Application - Clean Base */
+@import url('https://fonts.googleapis.com/css2?family=Geist&display=swap');
+
+/* Apply font to elements */
+html, body, [class*="css"], p, span, h1, h2, h3, h4, fieldset, button {
+    font-family: 'Geist', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+}
+
+/* Main Container */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    max-width: 1000px;
+}
+
+/* Headers Typography matching Vercel */
+h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    letter-spacing: -0.05em;
+    margin-bottom: 0.5rem;
+}
+h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+}
+h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+/* Custom Vercel Card Class */
+.vercel-card {
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    transition: border-color 0.2s ease;
+}
+
+/* Primary Button Highlighting (Inverted for Vercel Feel) */
+[data-testid="baseButton-primary"] {
+    font-weight: 600;
+    border-radius: 6px;
+    padding: 0.5rem 1.5rem;
+    transition: all 0.2s ease;
+}
+[data-testid="baseButton-primary"]:hover {
+    transform: translateY(-1px);
+    opacity: 0.9;
+}
+
+/* Dataframes Clean Look - Minimal Borders */
+[data-testid="stDataFrame"] {
+    border-radius: 6px;
+    overflow: hidden;
+}

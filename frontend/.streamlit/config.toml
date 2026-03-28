@@ -1,0 +1,3 @@
+[theme]
+# Removed fixed background and text colors so Streamlit dynamic themes (Light/Dark/System) work natively
+font="sans serif"
