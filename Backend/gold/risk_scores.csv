@@ -1,0 +1,6 @@
+patient_id,risk_score,risk_level,anomaly_count,last_anomaly_timestamp
+P005,85.0,HIGH,15,2026-03-29 11:33:20
+P003,43.7,MEDIUM,3,2024-03-29 00:40:00
+P008,35.4,LOW,2,2024-03-29 00:40:00
+P001,31.9,LOW,2,2024-03-29 00:40:00
+P006,28.3,LOW,2,2024-03-29 00:40:00

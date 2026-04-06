@@ -1,0 +1,17 @@
+{"patientId": "P001", "timestamp": 1711500000, "test": "glucose", "value": 110}
+{"patientId": "P001", "timestamp": 1711672800, "test": "glucose", "value": 105}
+{"patientId": "P001", "timestamp": 1711500000, "test": "cholesterol", "value": 220}
+{"patientId": "P002", "timestamp": 1711500000, "test": "glucose", "value": 180}
+{"patientId": "P002", "timestamp": 1711672800, "test": "glucose", "value": 165}
+{"patientId": "P002", "timestamp": 1711500000, "test": "HbA1c", "value": 7.2}
+{"patientId": "P003", "timestamp": 1711500000, "test": "creatinine", "value": 1.1}
+{"patientId": "P003", "timestamp": 1711672800, "test": "creatinine", "value": 1.3}
+{"patientId": "P004", "timestamp": 1711500000, "test": "IgE", "value": 450}
+{"patientId": "P005", "timestamp": 1711500000, "test": "troponin", "value": 0.04}
+{"patientId": "P005", "timestamp": 1711672800, "test": "troponin", "value": 0.08}
+{"patientId": "P006", "timestamp": 1711500000, "test": "creatinine", "value": 2.1}
+{"patientId": "P006", "timestamp": 1711672800, "test": "creatinine", "value": 2.4}
+{"patientId": "P007", "timestamp": 1711500000, "test": "HbA1c", "value": 9.1}
+{"patientId": "P007", "timestamp": 1711672800, "test": "glucose", "value": 210}
+{"patientId": "P008", "timestamp": 1711500000, "test": "cholesterol", "value": 245}
+{"patientId": "P008", "timestamp": 1711672800, "test": "glucose", "value": 98}
